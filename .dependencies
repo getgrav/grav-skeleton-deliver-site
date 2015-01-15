@@ -1,0 +1,26 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: develop
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: develop
+    deliver:
+        url: https://github.com/getgrav/grav-theme-deliver
+        path: user/themes/deliver
+        branch: develop
+links:
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    deliver:
+        src: grav-theme-deliver
+        path: user/themes/deliver
+        scm: github
