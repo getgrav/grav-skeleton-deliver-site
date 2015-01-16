@@ -13,7 +13,8 @@ content:
             - _showcase
             - _highlights
             - _callout
-            - _features
+            - _bottom
+            - _contact
 ---
 
 
