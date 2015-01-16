@@ -1,6 +1,6 @@
 ---
 title: Homepage Features
-menu: Features
+menu: Other Pages
 class: small
 buttons:
     - text: LEARN
