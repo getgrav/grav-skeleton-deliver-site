@@ -1,7 +1,52 @@
 title: Deliver
 author:
-  name: Joe Bloggs
-  email: 'joe@test.com'
+  name: John Appleseed                      # Default author name
+  email: 'john@email.com'                   # Default author email
+  copyright: "Copyright 2013 Deliver. All Rights Reserved."
+social:
+  - url: 'https://twitter.com/getgrav'
+    icon: 'twitter'
+  - facebook: '#'
+    icon: 'facebook'
+  - feed: '#'
+    icon: 'rss'
+contact:
+  address:
+    - line: "222 Ave C South"
+    - line: "Saskatoon, Saskatchewan"
+    - line: "Canada S7K 2N5"
+  gps: 1.306.222.3456  
+othermenu:
+  - text: "About"
+    url: "#"
+  - text: "Privacy Policy"
+    url: "#"
+  - text: "Contact"
+    url: "#"
+quicklinks:
+  - text: "Portfolio"
+    url: "#"
+  - text: "About"
+    url: "#"
+  - text: "Archive"
+    url: "#"
+  - text: "Blog"
+    url: "#"   
+  - text: "Dropdown"
+    url: "#"
+  - text: "Contact Us"
+    url: "#"          
+taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+blog:
+  route: '/blog'                            # Route to blog
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: 'My Grav Site'             # Site description
+summary:
+  size: 300                                 # Maximum length of summary (characters)
+routes:
+  /something/else: '/blog/sample-3'         # Alias for /blog/sample-3
+  /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
+  /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
+
+
 
