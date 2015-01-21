@@ -13,7 +13,7 @@ slides:
     button_text: LOREM
     button_url: http://learn.getgrav.org
   - image: image3.jpg
-    heading: "Cras  <strong>justo</strong> odio, dapibus ac facilisis in, egestas eget quam.. !"
+    heading: "Cras  <strong>justo</strong> odio, dapibus ac facilisis in, quam.. !"
     subheading: "Donec ullamcorper nulla non metus auctor fringilla.."
     button_text: DONEC
     button_url: http://learn.getgrav.org  
