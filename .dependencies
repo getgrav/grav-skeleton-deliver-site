@@ -7,6 +7,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
         branch: develop
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: develop    
     deliver:
         url: https://github.com/getgrav/grav-theme-deliver
         path: user/themes/deliver
@@ -20,6 +24,10 @@ links:
         src: grav-plugin-problems
         path: user/plugins/problems
         scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        scm: github    
     deliver:
         src: grav-theme-deliver
         path: user/themes/deliver
