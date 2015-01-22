@@ -1,6 +1,7 @@
 ---
 title: Classic Modern Architecture
 date: 17:34 06/27/2014 
+author: Mark Reison
 taxonomy:
     category: blog
     tag: [architecture, photography]

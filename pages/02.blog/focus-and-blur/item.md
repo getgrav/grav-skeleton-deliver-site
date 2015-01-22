@@ -1,6 +1,7 @@
 ---
 title: Focus and Blur
 date: 13:34 06/21/2014 
+author: Charles Eagle
 taxonomy:
     category: blog
     tag: [ocean, birds, photography]

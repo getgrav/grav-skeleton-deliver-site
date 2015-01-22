@@ -1,6 +1,7 @@
 ---
 title: London Industry at Night
 date: 13:34 06/07/2014 
+author: Michael Reimer
 taxonomy:
     category: blog
     tag: [city, night, photography]
