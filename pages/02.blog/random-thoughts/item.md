@@ -2,6 +2,7 @@
 title: Random Thoughts
 date: 13:34 05/26/2014 
 author: Stephan Douglas
+body_classes: header-image fullwidth blogstyling
 taxonomy:
     category: blog
     tag: [journal]
