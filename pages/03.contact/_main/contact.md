@@ -2,10 +2,10 @@
 title: Homepage Features
 menu: false
 class: borderbottom
-buttons:
-    - text: LEARN
-      url: http://learn.getgrav.org
-      primary: true
+process:
+  twig: true
+simple_form:
+  token: "token-by-simpleform"
 ---
 
 #### Our Location
