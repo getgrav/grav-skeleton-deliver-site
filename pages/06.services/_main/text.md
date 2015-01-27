@@ -32,7 +32,7 @@ pricing:
         - line: Training Included
       button_text: Full Details
       button_url: "#"  
-    - name: Custom Desig
+    - name: Custom Design
       price: $<sup>?</sup>
       options:
         - line: Custom Design
