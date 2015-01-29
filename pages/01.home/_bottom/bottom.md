@@ -1,5 +1,5 @@
 ---
-title: Homepage Features
+title: Do you Like What You See?
 menu: Other Pages
 class: small
 buttons:

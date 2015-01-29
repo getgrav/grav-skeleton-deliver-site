@@ -1,5 +1,5 @@
 ---
-title: Homepage Showcase
+title: Showcase
 menu: Top
 slides:
   - image: image1.jpg

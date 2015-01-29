@@ -1,5 +1,5 @@
 ---
-title: One Page Demo Site
+title: Home
 menu: Home
 onpage_menu: false
 body_classes: "modular header-image fullwidth"

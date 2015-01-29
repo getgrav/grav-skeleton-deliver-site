@@ -1,5 +1,5 @@
 ---
-title: Homepage Features
+title: If you like what you see, Join us
 menu: false
 buttons:
     - text: APPLY TODAY

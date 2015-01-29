@@ -1,5 +1,5 @@
 ---
-title: Homepage Features
+title: Contact
 menu: false
 class: borderbottom
 process:

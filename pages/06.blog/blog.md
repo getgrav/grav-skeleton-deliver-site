@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Blog
 blog_url: blog
 menu: Blog
 body_classes: header-lite fullwidth blogstyling

@@ -1,5 +1,5 @@
 ---
-title: Homepage Highlights
+title: Service Highlights
 menu: Highlights
 class: big
 features:

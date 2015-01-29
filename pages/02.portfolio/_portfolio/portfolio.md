@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Portfolio
 menu: false
 portfolio:
     - title: Paradigm

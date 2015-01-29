@@ -1,5 +1,5 @@
 ---
-title: Homepage Callout
+title: Portfolio
 menu: Portfolio
 portfolio:
     - image: work1.jpg
