@@ -6,9 +6,9 @@ author:
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
-  - facebook: '#'
+  - url: '#'
     icon: 'facebook'
-  - feed: '#'
+  - url: 'blog.rss'
     icon: 'rss'
 contact:
   address:
@@ -18,24 +18,24 @@ contact:
   gps: 1.306.222.3456  
 othermenu:
   - text: "About"
-    url: "#"
+    url: "about"
   - text: "Privacy Policy"
     url: "#"
   - text: "Contact"
-    url: "#"
+    url: "contact"
 quicklinks:
   - text: "Portfolio"
-    url: "#"
+    url: "portfolio"
   - text: "About"
-    url: "#"
+    url: "about"
+  - text: "Services"
+    url: "services"
   - text: "Archive"
-    url: "#"
+    url: "archive"
   - text: "Blog"
-    url: "#"   
-  - text: "Dropdown"
-    url: "#"
+    url: "blog"   
   - text: "Contact Us"
-    url: "#"          
+    url: "contact"          
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
