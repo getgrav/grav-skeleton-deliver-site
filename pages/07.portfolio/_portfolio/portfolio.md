@@ -9,6 +9,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Lexicon
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: lexicon.jpg
@@ -16,6 +17,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Osmosis
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: osmosis.jpg
@@ -23,6 +25,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Chimera
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: chimera.jpg
@@ -30,6 +33,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Hadron
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: hadron.jpg
@@ -37,6 +41,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Corvus
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: corvus.jpg
@@ -44,6 +49,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Hexeris
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: hexeris.jpg
@@ -51,6 +57,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Chapelco
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: chapelco.jpg
@@ -58,6 +65,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Grafito
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: grafito.jpg
@@ -65,6 +73,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Kirigami
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: kirigami.jpg 
@@ -72,6 +81,7 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Diametric
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: diametric.jpg  
@@ -79,11 +89,13 @@ portfolio:
       client: RocketTheme
       date: April 2014
       category: Web Development
+      url: http://www.rockettheme.com
     - title: Ionosphere
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
       image: ionosphere.jpg
       modalid: 12
       client: RocketTheme
+      url: http://www.rockettheme.com
 
 ---
 ## Nothing but the best for our portfolio

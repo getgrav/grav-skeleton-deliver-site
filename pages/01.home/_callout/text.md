@@ -3,11 +3,29 @@ title: Homepage Callout
 menu: Portfolio
 portfolio:
     - image: work1.jpg
-      description: First Item
+      title: First Item
+      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      modalid: 13
+      client: Some Company
+      url: "#"
+      date: April 2014
+      category: Web Development
     - image: work2.jpg
-      description: Second Item
+      title: Second Item
+      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      modalid: 14
+      client: Some Company
+      url: "#"
+      date: April 2014
+      category: Web Development
     - image: work3.jpg
-      description: Third Item   
+      title: Third Item
+      desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
+      modalid: 15
+      client: Some Company
+      url: "#"
+      date: April 2014
+      category: Web Development
        
 ---
 
