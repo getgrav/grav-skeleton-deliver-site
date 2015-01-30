@@ -66,5 +66,6 @@ footer:
     newsletter_title: "Newsletter"
     newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
     copyright_text: "Copyright 2013 Deliver. All Rights Reserved."
+    feedburner: ""   # Your feedburner id for Newsletter footer modul
 
 
