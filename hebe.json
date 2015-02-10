@@ -1,0 +1,24 @@
+{
+   "project":"grav-skeleton-deliver-site",
+   "platforms":{
+      "grav":{
+         "nodes":{
+            "skeleton":[
+               {
+                  "source":"/",
+                  "destination":"/user"
+               }
+            ],
+            "error plugin":[{
+               "project":"grav-plugin-error"
+            }],
+            "problems plugin":[{
+               "project":"grav-plugin-problems"
+            }],
+            "deliver theme":[{
+               "project":"grav-theme-deliver"
+            }]
+         }
+      }
+   }
+}

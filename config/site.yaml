@@ -1,0 +1,71 @@
+title: Deliver
+author:
+  name: John Appleseed                      # Default author name
+  email: 'john@email.com'                   # Default author email
+  copyright: "Copyright 2013 Deliver. All Rights Reserved."
+social:
+  - url: 'https://twitter.com/getgrav'
+    icon: 'twitter'
+  - url: '#'
+    icon: 'facebook'
+  - url: 'blog.rss'
+    icon: 'rss'
+contact:
+  address:
+    - line: "222 Ave C South"
+    - line: "Saskatoon, Saskatchewan"
+    - line: "Canada S7K 2N5"
+  gps: 1.306.222.3456  
+othermenu:
+  - text: "About"
+    url: "about"
+  - text: "Privacy Policy"
+    url: "#"
+  - text: "Contact"
+    url: "contact"
+quicklinks:
+  - text: "Portfolio"
+    url: "portfolio"
+  - text: "About"
+    url: "about"
+  - text: "Services"
+    url: "services"
+  - text: "Archive"
+    url: "archive"
+  - text: "Blog"
+    url: "blog"   
+  - text: "Contact Us"
+    url: "contact"          
+taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
+blog:
+  route: '/blog'                            # Route to blog
+metadata:
+    description: 'My Deliver Site'             # Site description
+summary:
+  size: 300                                 # Maximum length of summary (characters)
+routes:
+  /something/else: '/blog/sample-3'         # Alias for /blog/sample-3
+  /another/one/here: '/blog/sample-3'       # Another alias for /blog/sample-3
+  /new/*: '/blog/*'                         # Wildcard any /new/my-page URL to /blog/my-page Route
+
+header_options:
+  arrows: 'true'                            # Create Next and previous button
+  autoslide: 'false'                        # Auto slideshow mode
+  autoslideHoverStop: 'false'               # Pause auto slideshow mode on mouseover
+  interval: '2000'                          # The interval between each slide (Interval in millisecond)
+  loop: 'false'                             # Infinite slideshow             
+  transition : zoom                         # Set the animation kind (fade/slide/page/zoom)
+  itemsForSlide: '0'                        # Wrap each 'n' item
+  touch: 'true'                             # Set a native slide for touch device
+  swipe : 'true'                            # Enable swipe for touch device
+
+footer:
+    description: "Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Cras mattis consectetur purus sit amet fermentum. Curabitur blandit tempus porttitor. Cras justo odio, dapibus ac facilisis in, egestas eget quam."
+    contact_title: "Contact Info"
+    links_title: "Quick Links"
+    newsletter_title: "Newsletter"
+    newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
+    copyright_text: "Copyright 2013 Deliver. All Rights Reserved."
+    feedburner: ""   # Your feedburner id for Newsletter footer modul
+
+
