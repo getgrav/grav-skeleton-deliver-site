@@ -1,13 +1,13 @@
 name: Deliver Site
 version: 1.0.0
-description: "The **Deliver Skeleton** provides a great example of how to build a modern on-page design with navigation that scrolls to the relevant section of the page."
-icon: comments
+description: "Deliver theme is a port of the Michael Reimer's Deliver Free PSD theme."
+icon: newspaper-o
 author:
   name: Team Grav
   email: devs@getgrav.org
   url: http://getgrav.org
 homepage: https://github.com/getgrav/grav-skeleton-deliver-site
 demo: http://demo.getgrav.org/deliver-skeleton
-keywords: deliver, skeleton, scroll, single, page, modular
+keywords: deliver, skeleton, single, page, modular, blog
 bugs: https://github.com/getgrav/grav-skeleton-deliver-site/issues
 license: MIT
