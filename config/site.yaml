@@ -25,17 +25,17 @@ othermenu:
     url: "contact"
 quicklinks:
   - text: "Portfolio"
-    url: "portfolio"
+    url: "base_url:portfolio"
   - text: "About"
-    url: "about"
+    url: "base_url:about"
   - text: "Services"
-    url: "services"
+    url: "base_url:services"
   - text: "Archive"
-    url: "archive"
+    url: "base_url:archive"
   - text: "Blog"
-    url: "blog"   
+    url: "base_url:blog"   
   - text: "Contact Us"
-    url: "contact"          
+    url: "base_url:contact"          
 taxonomies: [category,tag]                  # Arbitrary list of taxonomy types
 blog:
   route: '/blog'                            # Route to blog
