@@ -2,47 +2,47 @@ git:
     error:
         url: https://github.com/getgrav/grav-plugin-error
         path: user/plugins/error
-        branch: develop
+        branch: master
     problems:
         url: https://github.com/getgrav/grav-plugin-problems
         path: user/plugins/problems
-        branch: develop
+        branch: master
     simplesearch:
         url: https://github.com/getgrav/grav-plugin-simplesearch
         path: user/plugins/simplesearch
-        branch: develop
+        branch: master
     feed:
         url: https://github.com/getgrav/grav-plugin-feed
         path: user/plugins/feed
-        branch: develop
+        branch: master
     relatedpages:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
-        branch: develop
+        branch: master
     simple_form:
         url: https://github.com/nunopress/grav-plugin-simple_form
         path: user/plugins/simple_form
-        branch: develop
+        branch: master
     jscomments:
         url: https://github.com/nunopress/grav-plugin-jscomments
         path: user/plugins/jscomments
-        branch: develop
+        branch: master
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
-        branch: develop
+        branch: master
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
-        branch: develop
+        branch: master
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
-        branch: develop                
+        branch: master                
     deliver:
         url: https://github.com/getgrav/grav-theme-deliver
         path: user/themes/deliver
-        branch: develop
+        branch: master
 links:
     error:
         src: grav-plugin-error
