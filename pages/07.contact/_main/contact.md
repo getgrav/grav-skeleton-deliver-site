@@ -6,6 +6,8 @@ process:
   twig: true
 simple_form:
   token: "token-by-simpleform"
+  template_file: "default"
+  redirect_to: /thankyou
 ---
 
 #### Our Location
