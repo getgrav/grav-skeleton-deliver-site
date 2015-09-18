@@ -3,10 +3,11 @@ home:
 
 pages:
   theme: deliver
-  markdown_extra: false
   process:
     markdown: true
     twig: false
+  markdown:
+    extra: false  
 
 cache:
   enabled: false
