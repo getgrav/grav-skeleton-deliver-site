@@ -1,6 +1,5 @@
 ---
 title: We would like to hear from you
-menu: false
 class: borderbottom
 buttons:
     - text: LEARN

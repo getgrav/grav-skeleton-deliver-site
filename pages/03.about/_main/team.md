@@ -1,6 +1,5 @@
 ---
 title: Team
-menu: false
 members:
     - name: Michael Turner
       image: michael.jpg

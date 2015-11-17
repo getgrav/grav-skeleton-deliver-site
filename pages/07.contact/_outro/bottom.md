@@ -1,6 +1,5 @@
 ---
 title: Do you need a theme
-menu: false
 buttons:
     - text: LEARN
       url: http://learn.getgrav.org

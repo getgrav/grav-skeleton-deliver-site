@@ -1,6 +1,5 @@
 ---
 title: Do you need a website ?
-menu: false
 buttons:
     - text: GET A FREE QUOTE
       url: http://learn.getgrav.org

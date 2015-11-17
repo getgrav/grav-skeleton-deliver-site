@@ -1,6 +1,5 @@
 ---
 title: Contact
-menu: false
 class: borderbottom
 process:
   twig: true
@@ -15,7 +14,7 @@ We just moved to our new location down the block right beside Subway.
 
 9 - 3815 Thatcher Avenue <br />
 Saskatoon, Saskatchewan <br />
-S7R 1A3 <br /> 
+S7R 1A3 <br />
 
 #### Contact Information
 **Email:**  		 		info@yastech.ca <br />
