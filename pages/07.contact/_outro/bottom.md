@@ -3,7 +3,7 @@ title: Do you need a theme
 buttons:
     - text: LEARN
       url: http://learn.getgrav.org
-      primary: true
+      primary: true  
 ---
 
 ___
