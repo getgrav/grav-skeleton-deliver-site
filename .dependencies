@@ -19,9 +19,13 @@ git:
         url: https://github.com/getgrav/grav-plugin-relatedpages
         path: user/plugins/relatedpages
         branch: master
-    simple_form:
-        url: https://github.com/nunopress/grav-plugin-simple_form
-        path: user/plugins/simple_form
+    email:
+        url: https://github.com/getgrav/grav-plugin-email
+        path: user/plugins/email
+        branch: master
+    form:
+        url: https://github.com/getgrav/grav-plugin-form
+        path: user/plugins/form
         branch: master
     jscomments:
         url: https://github.com/nunopress/grav-plugin-jscomments
@@ -38,7 +42,7 @@ git:
     archives:
         url: https://github.com/getgrav/grav-plugin-archives
         path: user/plugins/archives
-        branch: master                
+        branch: master
     deliver:
         url: https://github.com/getgrav/grav-theme-deliver
         path: user/themes/deliver
@@ -64,9 +68,13 @@ links:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
         scm: github
-    simple_form:
-        src: grav-plugin-simple_form
-        path: user/plugins/simple_form
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
         scm: github
     jscomments:
         src: grav-plugin-jscomments
@@ -83,7 +91,7 @@ links:
     archives:
         src: grav-plugin-archives
         path: user/plugins/archives
-        scm: github                         
+        scm: github
     deliver:
         src: grav-theme-deliver
         path: user/themes/deliver

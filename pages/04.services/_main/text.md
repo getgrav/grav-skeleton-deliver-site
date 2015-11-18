@@ -1,6 +1,5 @@
 ---
 title: Pricing
-menu: false
 pricing:
     - name: Basic
       price: $999<sup>99</sup>
@@ -45,6 +44,3 @@ pricing:
 ---
 ## Pricing table example
 Sed posuere consectetur est at lobortis. Nullam id dolor id nibh ultricies vehicula ut id elit. Etiam porta sem malesuada magna mollis euismod.
-
-
-

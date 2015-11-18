@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-menu: false
 portfolio:
     - title: Paradigm
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
@@ -76,7 +75,7 @@ portfolio:
       url: http://www.rockettheme.com
     - title: Kirigami
       desc: "Donec id elit non mi porta gravida at eget metus. Cras mattis consectetur purus sit amet fermentum."
-      image: kirigami.jpg 
+      image: kirigami.jpg
       modalid: 10
       client: RocketTheme
       date: April 2014
@@ -99,9 +98,7 @@ portfolio:
 
 ---
 ## Nothing but the best for our portfolio
-Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo. 
+Cras justo odio, dapibus ac facilisis in, egestas eget quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Nullam quis risus eget urna mollis ornare vel eu leo.
 <br /><br />
 
 ___
-
-

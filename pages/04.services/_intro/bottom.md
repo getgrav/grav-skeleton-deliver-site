@@ -1,6 +1,5 @@
 ---
 title: We would like to hear from you
-menu: false
 services:
     - icon: globe
       title: Service Title 1
