@@ -1,6 +1,6 @@
 ---
 title: Page not Found
-robots: noindex,nofollow
+robots: 'noindex,nofollow'
 body_classes: "modular header-lite fullwidth error"
 template: error
 routable: false
