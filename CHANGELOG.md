@@ -1,3 +1,10 @@
+# v1.2.0
+## 11/07/2016
+
+1. [](#bugfix)
+	* Fix expert mode editing issue [#10](https://github.com/getgrav/grav-skeleton-deliver-site/issues/10)
+    * Fix form issue [#12](https://github.com/getgrav/grav-skeleton-deliver-site/issues/12)
+
 # v1.1.0
 ## 11/18/2015
 
