@@ -39,7 +39,7 @@ form:
     buttons:
         - type: submit
           value: Submit
-          class: btn btn-primary btn-block
+          classes: btn btn-primary btn-block
 
     process:
         - email:
