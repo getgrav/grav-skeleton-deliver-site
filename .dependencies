@@ -27,10 +27,6 @@ git:
         url: https://github.com/getgrav/grav-plugin-form
         path: user/plugins/form
         branch: master
-    jscomments:
-        url: https://github.com/nunopress/grav-plugin-jscomments
-        path: user/plugins/jscomments
-        branch: master
     breadcrumbs:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
@@ -75,10 +71,6 @@ links:
     form:
         src: grav-plugin-form
         path: user/plugins/form
-        scm: github
-    jscomments:
-        src: grav-plugin-jscomments
-        path: user/plugins/jscomments
         scm: github
     breadcrumbs:
         src: grav-plugin-breadcrumbs
