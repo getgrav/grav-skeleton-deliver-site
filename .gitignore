@@ -18,3 +18,6 @@ Thumbs.db
 
 # phpstorm
 .idea/*
+/config/versions.yaml
+/config/themes/deliver.yaml
+/config/security.yaml
