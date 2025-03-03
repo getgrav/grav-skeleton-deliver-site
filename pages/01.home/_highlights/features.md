@@ -1,23 +1,38 @@
 ---
-title: Service Highlights
+title: 'Service Highlights'
 menu: Highlights
-class: big
 features:
-	- header: First Service
-	  text: "Sed posuere consectetur est at lobortis. Vivamus aoreet faucibus dolor auctor."
-	  icon: comment-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
-	- header: Second Service
-	  text: "Duis mollis, est non commodo eget urna mollis ornare vel eu leo faucibus."
-	  icon: heart-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
-	- header: Third Service
-	  text: "Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor."
-	  icon: star-o
-	  linkurl: "http://www.getgrav.org" 
-	  linktext: "Find Out More"
+    -
+        icon: comment-o
+        header: 'First Service'
+        text: 'Sed posuere consectetur est at lobortis. Vivamus aoreet faucibus dolor auctor.'
+        linktext: 'Find Out More'
+        linkurl: 'http://www.getgrav.org'
+        linkstyle: button-outline-info
+    -
+        icon: heart-o
+        header: 'Second Service'
+        text: 'Duis mollis, est non commodo eget urna mollis ornare vel eu leo faucibus.'
+        linktext: 'Find Out More'
+        linkurl: 'http://www.getgrav.org'
+        linkstyle: button-outline
+    -
+        icon: star-o
+        header: 'Third Service'
+        text: 'Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.'
+        linktext: 'Find Out More'
+        linkurl: 'http://www.getgrav.org'
+        linkstyle: button-outline-secondary
+buttons:
+    -
+        text: 'Lear more'
+        url: '#'
+        style: button
+    -
+        text: 'Visit here'
+        url: '#'
+        style: button-outline-secondary
+module_classes: big
 ---
 
 ## We are a Small Team Doing Big Things!

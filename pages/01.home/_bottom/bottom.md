@@ -1,14 +1,13 @@
 ---
-title: Do you Like What You See?
-menu: Other Pages
-class: small
+title: 'Do you Like What You See?'
+menu: 'Other Pages'
 buttons:
-    - text: LEARN
-      url: http://learn.getgrav.org
-      primary: true
+    -
+        text: LEARN
+        url: 'http://learn.getgrav.org'
+        style: button-secondary
+module_classes: small
 ---
-
-___
 
 ## Do you Like What You See?
 

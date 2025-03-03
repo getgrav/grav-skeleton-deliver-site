@@ -1,11 +1,10 @@
 ---
 title: Home
 menu: Home
-onpage_menu: false
-body_classes: "modular header-image fullwidth"
-
+onpage_menu: '0'
+body_classes: 'modular header-image fullwidth'
 content:
-    items: @self.modular
+    items: '@self.modular'
     order:
         by: default
         dir: asc
@@ -15,6 +14,8 @@ content:
             - _callout
             - _bottom
             - _contact
+title_bg_choice: color
+title_text_color: '#ffffff'
+title_bg_color: '#782727'
 ---
-
 

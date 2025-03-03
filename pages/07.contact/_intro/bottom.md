@@ -1,10 +1,14 @@
 ---
-title: We would like to hear from you
+title: 'We would like to hear from you'
 class: borderbottom
 buttons:
-    - text: LEARN
-      url: http://learn.getgrav.org
-      primary: true
+    -
+        text: LEARN
+        url: 'http://learn.getgrav.org'
+        style: button
+show_title: '1'
+show_featured_image: true
+big_header: false
 ---
 
 ## We would like to hear from you !

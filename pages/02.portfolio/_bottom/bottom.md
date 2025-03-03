@@ -5,7 +5,6 @@ buttons:
       url: http://learn.getgrav.org
       primary: true
 ---
----
 
 ## Do you need a website ?
 
