@@ -2,7 +2,6 @@ title: Deliver
 author:
   name: John Appleseed                      # Default author name
   email: 'john@email.com'                   # Default author email
-  copyright: "Copyright 2013 Deliver. All Rights Reserved."
 social:
   - url: 'https://twitter.com/getgrav'
     icon: 'twitter'
@@ -65,7 +64,7 @@ footer:
     links_title: "Quick Links"
     newsletter_title: "Newsletter"
     newsletter_description: "Etiam porta sem malesuada magna mollis euismod."
-    copyright_text: "Copyright 2013 Deliver. All Rights Reserved."
+    copyright: "Copyright 2013 Deliver. All Rights Reserved."
     feedburner: ""   # Your feedburner id for Newsletter footer modul
 
 
