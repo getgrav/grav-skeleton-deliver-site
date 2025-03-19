@@ -1,3 +1,9 @@
+# v1.2.1
+## 03/19/2025
+
+1. [](#improved)
+    * Added `pagination` plugin
+
 # v1.2.0
 ## 11/07/2016
 

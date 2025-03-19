@@ -1,5 +1,7 @@
 name: Deliver Site
-version: 1.2.0
+version: 1.2.1
+slug: deliver-site
+type: skeleton
 description: "Deliver theme is a port of the Michael Reimer's Deliver Free PSD theme."
 icon: newspaper-o
 author:
