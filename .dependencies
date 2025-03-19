@@ -31,6 +31,10 @@ git:
         url: https://github.com/getgrav/grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         branch: master
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination:
+        path: user/plugins/pagination:
+        branch: master    
     taxonomylist:
         url: https://github.com/getgrav/grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
@@ -76,6 +80,10 @@ links:
         src: grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
         scm: github
+    pagination:
+        src: grav-plugin-pagination:
+        path: user/plugins/pagination:
+        scm: github    
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
