@@ -1,53 +1,93 @@
 git:
+    admin2:
+        url: 'https://github.com/getgrav/grav-plugin-admin2'
+        path: user/plugins/admin2
+        branch: main
+    api:
+        url: 'https://github.com/getgrav/grav-plugin-api'
+        path: user/plugins/api
+        branch: main
+    flex-objects:
+        url: 'https://github.com/trilbymedia/grav-plugin-flex-objects'
+        path: user/plugins/flex-objects
+        branch: master
+    form:
+        url: 'https://github.com/getgrav/grav-plugin-form'
+        path: user/plugins/form
+        branch: master
+    login:
+        url: 'https://github.com/getgrav/grav-plugin-login'
+        path: user/plugins/login
+        branch: master
+    email:
+        url: 'https://github.com/getgrav/grav-plugin-email'
+        path: user/plugins/email
+        branch: master
     error:
-        url: https://github.com/getgrav/grav-plugin-error
+        url: 'https://github.com/getgrav/grav-plugin-error'
         path: user/plugins/error
         branch: master
     problems:
-        url: https://github.com/getgrav/grav-plugin-problems
+        url: 'https://github.com/getgrav/grav-plugin-problems'
         path: user/plugins/problems
         branch: master
     simplesearch:
-        url: https://github.com/getgrav/grav-plugin-simplesearch
+        url: 'https://github.com/getgrav/grav-plugin-simplesearch'
         path: user/plugins/simplesearch
         branch: master
     feed:
-        url: https://github.com/getgrav/grav-plugin-feed
+        url: 'https://github.com/getgrav/grav-plugin-feed'
         path: user/plugins/feed
         branch: master
     relatedpages:
-        url: https://github.com/getgrav/grav-plugin-relatedpages
+        url: 'https://github.com/getgrav/grav-plugin-relatedpages'
         path: user/plugins/relatedpages
         branch: master
-    email:
-        url: https://github.com/getgrav/grav-plugin-email
-        path: user/plugins/email
-        branch: master
-    form:
-        url: https://github.com/getgrav/grav-plugin-form
-        path: user/plugins/form
-        branch: master
     breadcrumbs:
-        url: https://github.com/getgrav/grav-plugin-breadcrumbs
+        url: 'https://github.com/getgrav/grav-plugin-breadcrumbs'
         path: user/plugins/breadcrumbs
         branch: master
     pagination:
-        url: https://github.com/getgrav/grav-plugin-pagination
+        url: 'https://github.com/getgrav/grav-plugin-pagination'
         path: user/plugins/pagination
-        branch: master    
+        branch: master
     taxonomylist:
-        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        url: 'https://github.com/getgrav/grav-plugin-taxonomylist'
         path: user/plugins/taxonomylist
         branch: master
     archives:
-        url: https://github.com/getgrav/grav-plugin-archives
+        url: 'https://github.com/getgrav/grav-plugin-archives'
         path: user/plugins/archives
         branch: master
     deliver:
-        url: https://github.com/getgrav/grav-theme-deliver
+        url: 'https://github.com/getgrav/grav-theme-deliver'
         path: user/themes/deliver
         branch: master
 links:
+    admin2:
+        src: grav-plugin-admin2
+        path: user/plugins/admin2
+        scm: github
+    api:
+        src: grav-plugin-api
+        path: user/plugins/api
+        scm: github
+    flex-objects:
+        src: grav-plugin-flex-objects
+        path: user/plugins/flex-objects
+        scm: github
+    form:
+        src: grav-plugin-form
+        path: user/plugins/form
+        scm: github
+    login:
+        src: grav-plugin-login
+        path: user/plugins/login
+        scm: github
+    email:
+        src: grav-plugin-email
+        path: user/plugins/email
+        scm: github
     error:
         src: grav-plugin-error
         path: user/plugins/error
@@ -68,14 +108,6 @@ links:
         src: grav-plugin-relatedpages
         path: user/plugins/relatedpages
         scm: github
-    email:
-        src: grav-plugin-email
-        path: user/plugins/email
-        scm: github
-    form:
-        src: grav-plugin-form
-        path: user/plugins/form
-        scm: github
     breadcrumbs:
         src: grav-plugin-breadcrumbs
         path: user/plugins/breadcrumbs
@@ -83,7 +115,7 @@ links:
     pagination:
         src: grav-plugin-pagination
         path: user/plugins/pagination
-        scm: github    
+        scm: github
     taxonomylist:
         src: grav-plugin-taxonomylist
         path: user/plugins/taxonomylist
